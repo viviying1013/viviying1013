@@ -1,0 +1,12 @@
+A
+particularly successful design for semiconducting donor
+polymers has been to incorporate both electron donating and
+accepting monomers into the polymer backbone.8−10 When an
+electron donating monomer is copolymerized with an electron
+accepting monomer, the orbitals mix resulting in hybridized polymer molecular orbitals, where the polymer LUMO (lowest
+unoccupied molecular orbital) orbital is characteristic of the
+acceptor unit LUMO and the polymer HOMO (highest
+occupied molecular orbital) level is characteristic of the donor
+unit HOMO
+
+解釋這段話
