@@ -1,4 +1,0 @@
-對於一個包含N個電子和個M原子核的分子體系,其完整的Hamilton量可以寫成
-\hat{H}\ =\ \underbrace{-\frac{\hbar^2}{2m_e}\sum_{i=1}^{N}\nabla_i^2}_{T_e}\ +\ \underbrace{\sum_{i=1}^{N}\sum_{A=1}^{M}\frac{Z_Ae^2}{4\pi\epsilon_0|\mathbf{r}_i-\mathbf{R}_A|}}_{V_{eN}}\ +\ \underbrace{\frac{1}{2}\sum_{i\neq j}^{N}\frac{e^2}{4\pi\epsilon_0|\mathbf{r}_i-\mathbf{r}_j|}}_{V_{ee}}\ +\ \underbrace{-\sum_{A=1}^{M}\frac{\hbar^2}{2M_A}\nabla_A^2}_{T_N}\ +\ \underbrace{\frac{1}{2}\sum_{A\neq B}^{M}\frac{Z_AZ_Be^2}{4\pi\epsilon_0|\mathbf{R}_A-\mathbf{R}_B|}}_{V_{NN}}
-**The Cauchy-Schwarz Inequality**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
